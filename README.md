@@ -1,2 +1,0 @@
-# grapefruit
-An illustration project — 
